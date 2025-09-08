@@ -362,3 +362,9 @@ input::placeholder, textarea::placeholder { color: #6b7280; }
   transform: translateY(-1px);
   background: rgba(255,255,255,0.05);
 }
+.pdf-viewer {
+  margin-top: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
