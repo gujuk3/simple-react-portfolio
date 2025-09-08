@@ -11,7 +11,7 @@ const PROJECTS = [
     description:
       "A simple React single-page site with a tiny hash router, built without any UI libraries. Clean CSS and accessible markup.",
     tags: ["React", "Vite", "CSS", "Accessibility"],
-    github: "https://github.com/your-github/portfolio",
+    github: "https://github.com/gujuk3/simple-react-portfolio",
   },
   {
     title: "Text Based RPG Game",
